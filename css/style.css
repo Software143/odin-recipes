@@ -1,0 +1,139 @@
+body {
+    background: beige;
+}
+#title {
+    text-align: center;
+}
+
+.lasagna {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 25px;
+  background: black;
+  padding: 20px;
+}
+
+.lasagna:hover {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    -moz-box-shadow:    0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    box-shadow: 0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+    -moz-box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+    box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+
+}
+
+.alfredo {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 25px;
+  background: black;
+  padding: 20px;
+}
+   
+.alfredo:hover {   
+    cursor: pointer;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    -moz-box-shadow:    0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    box-shadow: 0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+    -moz-box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+    box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+    
+}
+
+.spaghetti {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 25px;
+    background: black;
+    padding: 20px;
+    
+}
+
+.spaghetti:hover {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    -moz-box-shadow:    0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    box-shadow: 0px 0px 30px 0px rgba(0, 255, 0, 0.67);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+    -moz-box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+    box-shadow: 0px 0px 30px 0px rgba(232, 0, 0, 0.67);
+
+}
+
+.alfredo-2 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 25px;
+  background: white;
+  padding: 20px;
+  display: block;
+  margin: 0 auto;
+ 
+}
+
+.Heading {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+}
+
+.list-item {
+    list-style-type: none;
+padding: 0;
+margin: 5px;
+    text-align: center;
+}
+
+.lasagna-2 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 25px;
+  background: white;
+  padding: 20px;
+  display: block;
+  margin: 0 auto;
+ 
+}
+
+.spaghetti-2 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 25px;
+  background: white;
+  padding: 20px;
+  display: block;
+  margin: 0 auto;
+}
